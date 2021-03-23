@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog 😍",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis dolore tempora aliquid animi? Itaque, consequatur.",
+      "author": "Kibria",
+      "id": 1
+    },
+    {
+      "title": "Learning React 🎯",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis dolore tempora aliquid animi? Itaque, consequatur.",
+      "author": "Kibria",
+      "id": 2
+    },
+    {
+      "title": "React + Django = 🔥",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis dolore tempora aliquid animi? Itaque, consequatur.",
+      "author": "Kibria",
+      "id": 3
+    }
+  ]
+}
